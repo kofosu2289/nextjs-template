@@ -31,6 +31,8 @@
     "npm": "please-dont-use-npm"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
     "husky": "^8.0.3",
     "prettier": "^2.8.3"
   }
